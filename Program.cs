@@ -1,4 +1,4 @@
-﻿using Product_automation;
+﻿using Nesne_programlama_odev2;
 
 var product1 = new Product()
 {
