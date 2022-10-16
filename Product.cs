@@ -1,4 +1,4 @@
-﻿namespace Product_automation;
+﻿namespace Nesne_programlama_odev2;
 
 public class Product
 {
